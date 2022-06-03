@@ -1,2 +1,3 @@
-URL = 'https://automation-sandbox.herokuapp.com'.freeze
-URL2 = 'https://google.com'.freeze
+# frozen_string_literal: true
+
+URL = 'https://automation-sandbox.herokuapp.com'
