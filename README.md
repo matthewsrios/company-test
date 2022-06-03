@@ -10,4 +10,4 @@ After cloning the repository, install the project using this command:
 
 ## Running the tests
 
-`cucumber features/spec/*.feature`
+`cucumber features/specs/*.feature`
